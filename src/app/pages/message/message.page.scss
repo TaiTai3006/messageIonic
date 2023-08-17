@@ -1,0 +1,38 @@
+ion-col{
+
+    ion-input{
+        border: 1px solid rgba(9, 227, 45, 0.82);
+        --padding-bottom: 10px;
+        --padding-end: 10px;
+        --padding-start: 10px;
+        --padding-top: 10px;
+        border-radius: 5px;
+      }
+      
+    ion-button{
+       height: 100%;
+       width: 100%;
+       margin: 0;
+       font-size:medium;
+    }
+}
+
+.card_container{
+    background-color: rgb(76, 76, 77);
+    width: 100%;
+    .card{
+        margin: 0 10px;
+    }
+
+.colButton{
+    display: flex;
+    align-items: center;
+}
+    
+}
+
+.button-inner{
+    justify-content: start;
+}
+
+  
